@@ -1,8 +1,16 @@
 name: flutter_advance_util
 description: "An animation package for flutter devs."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Iremide-ds
 repository: https://github.com/Iremide-ds/flutter_advance_util
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
