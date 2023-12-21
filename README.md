@@ -5,7 +5,7 @@ The main aim of the package is to make implementing already built animations sim
 
 ## Features
 
-<iframe src="https://github.com/cscoderr/flutter_advance/blob/main/README.md" title="Flutter advance"></iframe>
+<div><iframe id="inlineFrameExample" src="https://github.com/cscoderr/flutter_advance/blob/main/README.md" title="Flutter advance" width="300" height="200"></iframe></div>
 
 ### Pending implementation
 - [Telegram Theme Switcher](https://github.com/cscoderr/flutter_advance?tab=readme-ov-file#telegram-theme-switcher--link-to-code)
