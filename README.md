@@ -1,39 +1,31 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+## Flutter advance util
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package contains animations which are all from the [Flutter advance](https://github.com/cscoderr/flutter_advance) project by [Tomiwa Idowu](https://github.com/cscoderr).
+The main aim of the package is to make implementing already built animations simple to implement in virtually every flutter app. 
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+<iframe src="https://github.com/cscoderr/flutter_advance/blob/main/README.md" title="Flutter advance"></iframe>
 
-## Getting started
+### Pending implementation
+- [Telegram Theme Switcher](https://github.com/cscoderr/flutter_advance?tab=readme-ov-file#telegram-theme-switcher--link-to-code)
+- [Phone Pattern](https://github.com/cscoderr/flutter_advance?tab=readme-ov-file#phone-pattern--link-to-code)
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+### Beta implementations
+- [Water Wave Animation](https://github.com/cscoderr/flutter_advance?tab=readme-ov-file#water-wave-animation--link-to-code)
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
+To use simply import the package
 ```dart
-const like = 'sample';
+import 'package:flutter_advance_util/flutter_advance_util.dart';
 ```
 
 ## Additional information
+### 🤓 Developer
+#### Adeboye Iremide
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+<p>
+<a href="https://twitter.com/iremide___"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/iremide-adeboye-02b2b5206/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" alt="linkedin"></a>
+</p>
